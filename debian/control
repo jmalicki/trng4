@@ -15,7 +15,7 @@ Depends: trngBROKEN (= ${binary:Version})
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
-Package: trngBROKEN
+Package: trng1
 Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
