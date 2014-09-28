@@ -1,0 +1,5 @@
+trng (4.17-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Joseph Malicki <jmalicki@gmail.com>  Sun, 28 Sep 2014 12:04:23 -0400
